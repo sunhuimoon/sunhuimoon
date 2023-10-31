@@ -96,11 +96,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
 <!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/ai/basic/test.html' target='_blank'>前言</a> - 2023-09-28
-* <a href='https://brain.sunguoqi.com/dv/foreword/about.html' target='_blank'>我与数据可视化</a> - 2023-09-28
-* <a href='https://brain.sunguoqi.com/en/advanced-guide/test.html' target='_blank'>前言</a> - 2023-09-28
-* <a href='https://brain.sunguoqi.com/en/basic/test.html' target='_blank'>前言</a> - 2023-09-28
-* <a href='https://brain.sunguoqi.com/en/programmer-english/test.html' target='_blank'>前言</a> - 2023-09-28
+* <a href='https://brain.sunguoqi.com/ai/basic/test.html' target='_blank'>前言</a> - 2023-10-19
+* <a href='https://brain.sunguoqi.com/dv/foreword/about.html' target='_blank'>我与数据可视化</a> - 2023-10-19
+* <a href='https://brain.sunguoqi.com/en/advanced-guide/test.html' target='_blank'>前言</a> - 2023-10-19
+* <a href='https://brain.sunguoqi.com/en/basic/test.html' target='_blank'>前言</a> - 2023-10-19
+* <a href='https://brain.sunguoqi.com/en/programmer-english/test.html' target='_blank'>前言</a> - 2023-10-19
 <!-- END_SECTION:brain -->
 
 </td></tr>
