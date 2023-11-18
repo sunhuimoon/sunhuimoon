@@ -170,19 +170,17 @@ Sunday                   261 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   3 hrs 1 min         ████████████████████████░   97.09 % 
-TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 17/11/2023 01:16:41 UTC
+ Last Updated on 18/11/2023 01:15:50 UTC
 <!--END_SECTION:waka-->
   
 </td></tr>
