@@ -80,11 +80,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://blog.sunguoqi.com/posts/4417b156.html' target='_blank'>Hello World</a> - 2023-11-19
 * <a href='https://blog.sunguoqi.com/posts/3eb6a074.html' target='_blank'>Oh My Posh | Windows Terminal 美化指南</a> - 2023-07-15
 * <a href='https://blog.sunguoqi.com/posts/e7213992.html' target='_blank'>小孙同学 の 第二大脑正在施工中 。。。</a> - 2023-03-26
 * <a href='https://blog.sunguoqi.com/posts/abe837db.html' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
 * <a href='https://blog.sunguoqi.com/posts/f3b61b38.html' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
+* <a href='https://blog.sunguoqi.com/posts/e78a2007.html' target='_blank'>快速上手，教你如何将 ChatGPT 接入到微信公众号</a> - 2023-01-29
 <!-- END_SECTION:blog -->
 
 </td></tr>
