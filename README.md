@@ -195,29 +195,6 @@ Mac                      44 hrs 16 mins      ███████████�
 
 <div align="center" >
 
-```mermaid
-mindmap
-  root((小孙同学))
-    编程
-      Web开发
-      网络爬虫
-      人工智能
-    摄影
-      风光
-    旅行
-      广州
-      苏州
-      南京
-      滁州
-      合肥
-      寿县
-    阅读
-      人物传记
-      个人成长
-      社会文化
-      计算机技术
-```
-
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
@@ -286,11 +263,16 @@ mindmap
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
+<!-- profile-3d-contrib 3D贡献图-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
+</picture>
+
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
-<!-- profile-3d-contrib 3D贡献图-->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
@@ -313,9 +295,9 @@ mindmap
 
 <!-- Awesome repo 比较好的仓库-->
 <a href="https://github.com/sun0225SUN/Awesome-Love-Code">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&theme=dark&bg_color=121212&hide_border=true" /></a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sun0225SUN&repo=Awesome-Love-Code&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></a>
 <a href="https://github.com/sun0225SUN/Student-Data-Vision">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sun0225SUN&repo=Student-Data-Vision&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a><br><br>
   
 <!-- Wakatime Graph-->
 <table>
@@ -353,7 +335,12 @@ mindmap
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity" />
+      </picture>
   </tr>
 </table>
 
