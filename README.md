@@ -100,11 +100,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
 <!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/ai/basic/test.html' target='_blank'>前言</a> - 2023-10-31
-* <a href='https://brain.sunguoqi.com/dv/foreword/about.html' target='_blank'>我与数据可视化</a> - 2023-10-31
-* <a href='https://brain.sunguoqi.com/en/advanced-guide/test.html' target='_blank'>前言</a> - 2023-10-31
-* <a href='https://brain.sunguoqi.com/en/basic/test.html' target='_blank'>前言</a> - 2023-10-31
-* <a href='https://brain.sunguoqi.com/en/programmer-english/test.html' target='_blank'>前言</a> - 2023-10-31
+* <a href='https://brain.sunguoqi.com/web/frontend/tools/git/git.html' target='_blank'>Git</a> - 2023-12-08
+* <a href='https://brain.sunguoqi.com/web/frontend/tools/package-manage/npm.html' target='_blank'>npm</a> - 2023-09-07
+* <a href='https://brain.sunguoqi.com/web/frontend/tools/package-manage/pnpm.html' target='_blank'>pnpm</a> - 2023-09-07
+* <a href='https://brain.sunguoqi.com/web/frontend/tools/package-manage/yarn.html' target='_blank'>yarn</a> - 2023-09-07
+* <a href='https://brain.sunguoqi.com/web/frontend/tools/vscode/vscode.html' target='_blank'>Vscode 权威指南</a> - 2023-12-08
 <!-- END_SECTION:brain -->
 
 </td></tr>
