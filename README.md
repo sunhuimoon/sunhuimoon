@@ -87,7 +87,7 @@
 * <a href='https://blog.sunguoqi.com/posts/9f4f8f84/' target='_blank'>关于个人独立博客，我的折腾和思考</a> - 2023-12-09
 * <a href='https://blog.sunguoqi.com/posts/3eb6a074/' target='_blank'>Oh My Posh | Windows Terminal 美化指南</a> - 2023-07-15
 * <a href='https://blog.sunguoqi.com/posts/e7213992/' target='_blank'>小孙同学 の 第二大脑正在施工中。。。</a> - 2023-03-26
-* <a href='https://blog.sunguoqi.com/posts/abe837db/' target='_blank'>奔跑在自己的时区里，你好哇，我的22岁！</a> - 2023-02-25
+* <a href='https://blog.sunguoqi.com/posts/abe837db/' target='_blank'>奔跑在自己的时区里，你好哇，我的 22 岁！</a> - 2023-02-25
 * <a href='https://blog.sunguoqi.com/posts/f3b61b38/' target='_blank'>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</a> - 2023-01-30
 <!-- END_SECTION:blog -->
 
